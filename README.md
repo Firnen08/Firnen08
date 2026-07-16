@@ -7,7 +7,6 @@ Hi there! I'm **BarricadeBandit**, and this is my personal GitHub profile reposi
 ## About Me
 - Feel free to ask me about: **Game Server Hosting, Gaming, Discord Bots, NodeJS, Pterodactyl Panel**
 - Developer/Co-Founder @ ![Hoppou.AI](https://hoppou.ai) AI characters and stuff
-- I'm a Co-Founder at ![RuntzServers](https://runtzservers.com) a Rust Server group with a 10x server
 
 ---
 
